@@ -1,12 +1,12 @@
 import React from 'react';
 
 const projects = [
-  { img: '/src/assets/images/appcip.png', name: 'App CIP LA LIBERTAD' },
-  { img: '/src/assets/images/restaurant.jpg', name: 'App para restaurante' },
-  { img: '/src/assets/images/intranet.jpg', name: 'Intranet Web' },
-  { img: '/src/assets/images/sedalib.png', name: 'Website Sedalib' },
-  { img: '/src/assets/images/cms.png', name: 'CMS Gestor de Contenidos' },
-  { img: '/src/assets/images/chatbot.png', name: 'App Chatbot' }
+  { img: 'images/appcip.png', name: 'App CIP LA LIBERTAD' },
+  { img: 'images/restaurant.jpg', name: 'App para restaurante' },
+  { img: 'images/intranet.jpg', name: 'Intranet Web' },
+  { img: 'images/sedalib.png', name: 'Website Sedalib' },
+  { img: 'images/cms.png', name: 'CMS Gestor de Contenidos' },
+  { img: 'images/chatbot.png', name: 'App Chatbot' }
 ];
 
 const Projects = () => {
