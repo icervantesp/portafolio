@@ -1,5 +1,4 @@
 import React from 'react';
-
 const Footer = () => {
   return (
     <div className="conta">
@@ -11,6 +10,7 @@ const Footer = () => {
         <li><a href="https://www.linkedin.com/in/italo-cervantes-prieto/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i className="fa-brands fa-linkedin"></i></a></li>
       </ul>
     </div>
+
   );
 };
 
